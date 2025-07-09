@@ -1,0 +1,20 @@
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+theme: jekyll-theme-slate
+
+title: "SDSU CS596"
+description: "Wireless Network Security"
+
+url                      : https://cmand.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/cs596" # the subpath of your site, e.g. "/blog"
+    
+# Reading Files
+#include:
+#  - .htaccess
+#  - _pages
+#  - files
