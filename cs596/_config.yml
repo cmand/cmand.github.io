@@ -14,7 +14,7 @@ url                      : https://cmand.github.io # the base hostname & protoco
 baseurl                  : "/cs596" # the subpath of your site, e.g. "/blog"
     
 # Reading Files
-#include:
-#  - .htaccess
+include:
+  - .htaccess
   - _pages
 #  - files
