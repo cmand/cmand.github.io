@@ -16,5 +16,5 @@ baseurl                  : "/cs596" # the subpath of your site, e.g. "/blog"
 # Reading Files
 #include:
 #  - .htaccess
-#  - _pages
+  - _pages
 #  - files
